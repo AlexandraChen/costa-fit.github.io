@@ -6,7 +6,7 @@ module.exports = {
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `tproenza.github.io/serendipity_saas.github.io/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/serendipity_saas.github.io/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Costa Fit',
   subHeading: 'Turn Pain into Power',
   // social
